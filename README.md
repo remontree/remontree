@@ -5,6 +5,7 @@
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
     <a href="https://www.instagram.com/jong_1_02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/jongwon-lee-a3702a169" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>remontree4711@gmail.com<br>
 </p>
