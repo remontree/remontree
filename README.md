@@ -16,6 +16,12 @@
 딥러닝, 양자 정보 기술에 대해 공부하고 있는 개발자 이종원입니다.<br>
 </p>
 
+<p align="center">
+경력/학력<br>
+KyungHee Univ Computer Engineering Department<br>
+Sw Maestro 13기<br>
+</p>
+
 <br>
 
 <p align="center">
