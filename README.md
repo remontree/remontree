@@ -32,8 +32,9 @@ Sw Maestro 13기<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p><br>
 <p align="center">
     <Strong>Useable Library or Plattform</Strong><br>
@@ -51,4 +52,9 @@ Sw Maestro 13기<br>
   <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="30">
 </p><br>
 
+<p align="center">
+    <Strong>백준</Strong><br>
+</p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw4711)](https://solved.ac/jw4711/)
 ![remontree github stats](https://github-readme-stats.vercel.app/api?username=remontree&show_icons=true)
