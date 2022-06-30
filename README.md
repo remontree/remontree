@@ -25,14 +25,21 @@ Sw Maestro 13기<br>
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
+    <Strong>Main Language</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"><br>
+</p><br>
+<p align="center">
+    <Strong>Useable Library</Strong><br>
+</p>
+
+<p align="center" display="inline-block">
+  
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
     
 </p><br>
