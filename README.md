@@ -52,9 +52,6 @@ Sw Maestro 13기<br>
   <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="30">
 </p><br>
 
-<p align="center">
-    <Strong>백준/깃헙</Strong><br>
-</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw4711)](https://solved.ac/jw4711/)
 ![remontree github stats](https://github-readme-stats.vercel.app/api?username=remontree&show_icons=true)
