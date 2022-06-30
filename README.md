@@ -53,8 +53,7 @@ Sw Maestro 13기<br>
 </p><br>
 
 <p align="center">
-    <Strong>백준/</Strong><br>
-    https://solved.ac/profile/jw4711
+    <Strong>백준/깃헙</Strong><br>
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw4711)](https://solved.ac/jw4711/)
