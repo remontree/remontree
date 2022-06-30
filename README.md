@@ -46,7 +46,7 @@ Sw Maestro 13기<br>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"> 
-  <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="300">
+  <img src="https://kivy.org/logos/kivy-logo-black-64.png" width="30">
 </p><br>
 
 ![remontree github stats](https://github-readme-stats.vercel.app/api?username=remontree&show_icons=true)
