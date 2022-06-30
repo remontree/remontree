@@ -57,6 +57,8 @@ Sw Maestro 13기<br>
     https://solved.ac/profile/jw4711
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw4711)](https://solved.ac/jw4711/)
+<p align="center">
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw4711)](https://solved.ac/jw4711/)
+</p>
 <br>
 ![remontree github stats](https://github-readme-stats.vercel.app/api?username=remontree&show_icons=true)
