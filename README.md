@@ -38,7 +38,7 @@ Sw Maestro 13기<br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </p><br>
 <p align="center">
-    <Strong>Useable Library or Plattform</Strong><br>
+    <Strong>Useable Library and Plattform</Strong><br>
 </p>
 
 <p align="center" display="inline-block">
