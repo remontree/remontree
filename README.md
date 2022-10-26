@@ -19,7 +19,8 @@
 
 <p align="center">
 경력/학력<br>
-KyungHee Univ Computer Engineering Department<br>
+KyungHee Univ Department of Computer Engineering<br>
+KyungHee Univ Department of Applied Physics<br>
 Sw Maestro 13기<br>
 </p>
 
