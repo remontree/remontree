@@ -1,4 +1,4 @@
-<img src="./assets/profile.svg" width="100%" alt="LEE JONG WON — Machine Learning for Aerospace. Pilot profile, flight history, missions, payload and records."/>
+<img src="./assets/profile.svg" width="100%" alt="이종원 · LEE JONG WON — ML, 특히 강화학습(RL)과 시뮬레이션에 관심이 많습니다. 소개, 프로젝트, 기술 스택 및 활동 기록."/>
 
 <p align="center">
 <a href="mailto:remontree4711@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
