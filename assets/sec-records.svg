@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70">
-<style>.mono{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace} .sans{font-family:'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif}
- .grow{transform-box:fill-box;transform-origin:0 0;transform:scaleX(0);animation:g 1.4s cubic-bezier(.2,.8,.2,1) .2s forwards} @keyframes g{to{transform:scaleX(1)}}</style>
-<text x="2" y="20" class="mono" font-size="12" fill="#1EA7DB" letter-spacing="3">05  //  PUBLICATION · AWARDS</text>
-<text x="0" y="54" class="sans" font-size="30" font-weight="800" fill="#7F8FA8" letter-spacing="-.5">FLIGHT RECORDS</text>
-<g class="grow"><rect x="0" y="66" width="1200" height="1" fill="#1EA7DB" opacity=".25"/><rect x="0" y="65" width="90" height="3" fill="#1EA7DB"/></g>
-<rect x="1190" y="10" width="8" height="8" fill="none" stroke="#1EA7DB" stroke-opacity=".6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64"><style>
+ .s{font-family:'Barlow','D-DIN','DIN Alternate','DIN Next','Helvetica Neue','Inter','Segoe UI',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+ .in{opacity:0;animation:in 1.1s cubic-bezier(.2,.7,.2,1) forwards}
+ @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+ .grow{transform-box:fill-box;transform-origin:0 50%;transform:scaleX(0);animation:grow 1.4s cubic-bezier(.2,.7,.2,1) forwards}
+ @keyframes grow{to{transform:scaleX(1)}}
+ .pulse{animation:pulse 2.4s ease-in-out infinite} @keyframes pulse{50%{opacity:.25}}
+</style>
+<rect width="1200" height="64" fill="#000"/>
+<text x="28" y="39" class="m" font-size="12" fill="#8C8C8C" letter-spacing="2">05</text>
+<rect x="64" y="22" width="1" height="20" fill="#4A4A4A"/>
+<text x="84" y="40" class="s" font-size="18" font-weight="700" fill="#FFFFFF" letter-spacing="5">RECORDS</text>
+<text x="1172" y="39" text-anchor="end" class="m" font-size="10.5" fill="#8C8C8C" letter-spacing="3">PUBLICATION · AWARDS</text>
+<rect x="0" y="63" width="1200" height="1" fill="#FFFFFF" opacity=".9" class="grow"/>
 </svg>
